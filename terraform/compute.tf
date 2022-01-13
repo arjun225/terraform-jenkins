@@ -1,5 +1,6 @@
 provider "aws" {
   region = "us-west-2"
+  version = "v2.70.0"
 }
 
 terraform {
